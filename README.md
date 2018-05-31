@@ -1,19 +1,19 @@
-OpenCV mini Projects
----------------------
-
-Alguns projetos pessoais utilizando o OpenCV (3.x ++) e Python (3.x ++).
+<img src="demo.jpg">
 
 
 
-Projetos:
-----------
+## 3 Layers
 
-1. 3 Imagens
+Um projeto divertido, para um primeiro contato com o OpenCV.
 
-Uma pequena edição em uma entrada de vídeo, dividindo-o em três partes:
+O programa aplica uma  edição em uma entrada de vídeo (.avi), dividindo-a em três partes:
 
 - Frames originais e coloridos, no lado esquerdo.
 - No centro, uma mascara em escala de cinza.
 - No canto direito, um detector de bordas ( 'Canny Edge Detector' )
 
-Foi testado com o OpenCV 3.3 + Python 3.6.3; SO: Fedora 27.
+
+### Requisitos:
+
+- OpenCV (3.x ++)
+- Python (3.x ++)
