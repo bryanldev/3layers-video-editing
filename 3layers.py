@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-
+# Change 'input.avi' to your video input.
 vin = cv2.VideoCapture('input.avi')
 
 # Check if camera opened successfully
